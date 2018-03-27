@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="JULiO"
+
+>
+  <image imageURL="images/Mobile_edition1_page1.jpg"
+	thumbURL="thumbs/Mobile_edition1_page1.jpg"
+	linkURL="images/Mobile_edition1_page1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page1.jpg">
+    <title><![CDATA[Mobile_edition1_page1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mobile_edition1_page2.jpg"
+	thumbURL="thumbs/Mobile_edition1_page2.jpg"
+	linkURL="images/Mobile_edition1_page2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page2.jpg">
+    <title><![CDATA[Mobile_edition1_page2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mobile_edition1_page3.jpg"
+	thumbURL="thumbs/Mobile_edition1_page3.jpg"
+	linkURL="images/Mobile_edition1_page3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page3.jpg">
+    <title><![CDATA[Mobile_edition1_page3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mobile_edition1_page4.jpg"
+	thumbURL="thumbs/Mobile_edition1_page4.jpg"
+	linkURL="images/Mobile_edition1_page4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page4.jpg">
+    <title><![CDATA[Mobile_edition1_page4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mobile_edition1_page5.jpg"
+	thumbURL="thumbs/Mobile_edition1_page5.jpg"
+	linkURL="images/Mobile_edition1_page5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page5.jpg">
+    <title><![CDATA[Mobile_edition1_page5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mobile_edition1_page6.jpg"
+	thumbURL="thumbs/Mobile_edition1_page6.jpg"
+	linkURL="images/Mobile_edition1_page6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page6.jpg">
+    <title><![CDATA[Mobile_edition1_page6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
