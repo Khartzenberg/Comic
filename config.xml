@@ -2,60 +2,309 @@
 
 <juiceboxgallery 
 
-	galleryTitle="JULiO"
-	useThumbDots="true"
-	useFullscreenExpand="false"
-	showOpenButton="false"
+	useThumbDots="false"
 	showExpandButton="false"
-	indexPageName="index.html"
+	showThumbsButton="false"
+	showOpenButton="false"
+	shareFacebook="true"
+	shareTwitter="true"
+	backButtonPosition="NONE"
+	galleryHeight="650px"
+	showImageNumber="true"
+	showSmallPagingText="false"
+	galleryTitlePosition="NONE"
+	galleryTitleHAlign="CENTER"
+	buttonBarPosition="OVERLAY"
+	captionPosition="NONE"
+	buttonBarHAlign="RIGHT"
 
 >
-  <image imageURL="images/Mobile_edition1_page1.jpg"
-	thumbURL="thumbs/Mobile_edition1_page1.jpg"
-	linkURL="images/Mobile_edition1_page1.jpg"
+  <image imageURL="images/244898.jpg"
+	thumbURL="thumbs/244898.jpg"
+	linkURL="images/244898.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page1.jpg">
-    <title><![CDATA[]]></title>
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\244898.jpg">
+    <title><![CDATA[244898]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Mobile_edition1_page2.jpg"
-	thumbURL="thumbs/Mobile_edition1_page2.jpg"
-	linkURL="images/Mobile_edition1_page2.jpg"
+  <image imageURL="images/244899.jpg"
+	thumbURL="thumbs/244899.jpg"
+	linkURL="images/244899.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page2.jpg">
-    <title><![CDATA[]]></title>
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\244899.jpg">
+    <title><![CDATA[244899]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Mobile_edition1_page3.jpg"
-	thumbURL="thumbs/Mobile_edition1_page3.jpg"
-	linkURL="images/Mobile_edition1_page3.jpg"
+  <image imageURL="images/244900.jpg"
+	thumbURL="thumbs/244900.jpg"
+	linkURL="images/244900.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page3.jpg">
-    <title><![CDATA[]]></title>
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\244900.jpg">
+    <title><![CDATA[244900]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Mobile_edition1_page4.jpg"
-	thumbURL="thumbs/Mobile_edition1_page4.jpg"
-	linkURL="images/Mobile_edition1_page4.jpg"
+  <image imageURL="images/244901.jpg"
+	thumbURL="thumbs/244901.jpg"
+	linkURL="images/244901.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page4.jpg">
-    <title><![CDATA[]]></title>
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\244901.jpg">
+    <title><![CDATA[244901]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Mobile_edition1_page5.jpg"
-	thumbURL="thumbs/Mobile_edition1_page5.jpg"
-	linkURL="images/Mobile_edition1_page5.jpg"
+  <image imageURL="images/244902.jpg"
+	thumbURL="thumbs/244902.jpg"
+	linkURL="images/244902.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page5.jpg">
-    <title><![CDATA[]]></title>
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\244902.jpg">
+    <title><![CDATA[244902]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Mobile_edition1_page6.jpg"
-	thumbURL="thumbs/Mobile_edition1_page6.jpg"
-	linkURL="images/Mobile_edition1_page6.jpg"
+  <image imageURL="images/244903.jpg"
+	thumbURL="thumbs/244903.jpg"
+	linkURL="images/244903.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\Mobile_edition1_page6.jpg">
-    <title><![CDATA[]]></title>
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\244903.jpg">
+    <title><![CDATA[244903]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245157.jpg"
+	thumbURL="thumbs/245157.jpg"
+	linkURL="images/245157.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245157.jpg">
+    <title><![CDATA[245157]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245158.jpg"
+	thumbURL="thumbs/245158.jpg"
+	linkURL="images/245158.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245158.jpg">
+    <title><![CDATA[245158]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245159.jpg"
+	thumbURL="thumbs/245159.jpg"
+	linkURL="images/245159.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245159.jpg">
+    <title><![CDATA[245159]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245160.jpg"
+	thumbURL="thumbs/245160.jpg"
+	linkURL="images/245160.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245160.jpg">
+    <title><![CDATA[245160]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245161.jpg"
+	thumbURL="thumbs/245161.jpg"
+	linkURL="images/245161.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245161.jpg">
+    <title><![CDATA[245161]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245162.jpg"
+	thumbURL="thumbs/245162.jpg"
+	linkURL="images/245162.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245162.jpg">
+    <title><![CDATA[245162]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245295.jpg"
+	thumbURL="thumbs/245295.jpg"
+	linkURL="images/245295.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245295.jpg">
+    <title><![CDATA[245295]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245296.jpg"
+	thumbURL="thumbs/245296.jpg"
+	linkURL="images/245296.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245296.jpg">
+    <title><![CDATA[245296]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245297.jpg"
+	thumbURL="thumbs/245297.jpg"
+	linkURL="images/245297.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245297.jpg">
+    <title><![CDATA[245297]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245298.jpg"
+	thumbURL="thumbs/245298.jpg"
+	linkURL="images/245298.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245298.jpg">
+    <title><![CDATA[245298]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245299.jpg"
+	thumbURL="thumbs/245299.jpg"
+	linkURL="images/245299.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245299.jpg">
+    <title><![CDATA[245299]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245300.jpg"
+	thumbURL="thumbs/245300.jpg"
+	linkURL="images/245300.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245300.jpg">
+    <title><![CDATA[245300]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245462.jpg"
+	thumbURL="thumbs/245462.jpg"
+	linkURL="images/245462.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245462.jpg">
+    <title><![CDATA[245462]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245463.jpg"
+	thumbURL="thumbs/245463.jpg"
+	linkURL="images/245463.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245463.jpg">
+    <title><![CDATA[245463]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245464.jpg"
+	thumbURL="thumbs/245464.jpg"
+	linkURL="images/245464.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245464.jpg">
+    <title><![CDATA[245464]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245465.jpg"
+	thumbURL="thumbs/245465.jpg"
+	linkURL="images/245465.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245465.jpg">
+    <title><![CDATA[245465]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245466.jpg"
+	thumbURL="thumbs/245466.jpg"
+	linkURL="images/245466.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245466.jpg">
+    <title><![CDATA[245466]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245467.jpg"
+	thumbURL="thumbs/245467.jpg"
+	linkURL="images/245467.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245467.jpg">
+    <title><![CDATA[245467]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245575.jpg"
+	thumbURL="thumbs/245575.jpg"
+	linkURL="images/245575.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245575.jpg">
+    <title><![CDATA[245575]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245576.jpg"
+	thumbURL="thumbs/245576.jpg"
+	linkURL="images/245576.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245576.jpg">
+    <title><![CDATA[245576]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245577.jpg"
+	thumbURL="thumbs/245577.jpg"
+	linkURL="images/245577.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245577.jpg">
+    <title><![CDATA[245577]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245578.jpg"
+	thumbURL="thumbs/245578.jpg"
+	linkURL="images/245578.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245578.jpg">
+    <title><![CDATA[245578]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245579.jpg"
+	thumbURL="thumbs/245579.jpg"
+	linkURL="images/245579.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245579.jpg">
+    <title><![CDATA[245579]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/245580.jpg"
+	thumbURL="thumbs/245580.jpg"
+	linkURL="images/245580.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\245580.jpg">
+    <title><![CDATA[245580]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/246184.jpg"
+	thumbURL="thumbs/246184.jpg"
+	linkURL="images/246184.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\246184.jpg">
+    <title><![CDATA[246184]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/246185.jpg"
+	thumbURL="thumbs/246185.jpg"
+	linkURL="images/246185.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\246185.jpg">
+    <title><![CDATA[246185]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/246186.jpg"
+	thumbURL="thumbs/246186.jpg"
+	linkURL="images/246186.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\246186.jpg">
+    <title><![CDATA[246186]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/246188.jpg"
+	thumbURL="thumbs/246188.jpg"
+	linkURL="images/246188.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\246188.jpg">
+    <title><![CDATA[246188]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/246189.jpg"
+	thumbURL="thumbs/246189.jpg"
+	linkURL="images/246189.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\246189.jpg">
+    <title><![CDATA[246189]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/246191.jpg"
+	thumbURL="thumbs/246191.jpg"
+	linkURL="images/246191.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Desktop\PROJECTS\CarlosComics\AI_TRANSFORM CONFRONTATION\Cuban_Lives\246191.jpg">
+    <title><![CDATA[246191]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
