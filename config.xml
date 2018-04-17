@@ -17,7 +17,7 @@
 	buttonBarPosition="OVERLAY"
 	captionPosition="NONE"
 	buttonBarHAlign="RIGHT"
-	useFullscreenExpand="false"
+	useFullscreenExpand="true"
 
 >
   <image imageURL="images/245157.jpg"
